@@ -1,0 +1,1 @@
+This is a repository for various breakouts and development boards for Nordic Semiconductor RF devices. Utilized devices so far are the nRF24LU1+ and nRF24LO1.
